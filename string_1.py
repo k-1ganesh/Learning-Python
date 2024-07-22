@@ -21,4 +21,3 @@ l1 = ss.split()
 # Join() Method is used to concate ele of list or tuple into single string with separator
 # separator.join(list/tuple)
 print('#'.join(l1))
-
